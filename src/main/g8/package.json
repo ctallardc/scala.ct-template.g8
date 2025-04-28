@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"calling test from sbt\" && sbt test"
-    "exeut": "echo \"running from sbt\" && sbt run"
+    "test": "echo \"calling test from sbt\" && sbt test",
+    "execute": "echo \"running from sbt\" && sbt run"
   },
   "keywords": [],
   "author": "",
