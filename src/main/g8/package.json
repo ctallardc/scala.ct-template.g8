@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"calling test from sbt\" && sbt test",
-    "execute": "echo \"running from sbt\" && sbt run"
+    "execute": "echo \"running from sbt\" && sbt run",
+    "assembly": "echo \"assembly jar fat file from sbt\" && sbt assembly"
   },
   "keywords": [],
   "author": "",
